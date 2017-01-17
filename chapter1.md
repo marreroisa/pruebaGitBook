@@ -30,8 +30,13 @@ Esto es [otro ejemplo][id2] del estilo de enlaces "reference".
  
 [id2]: http://www.ull.es/  "Universidad de La Laguna"
 
-An image: ![Ojo dragonfly](/assets/Dragonfly_eye_3811.jpg)
+![Una imagen de GitBook](/assets/Dragonfly_eye_3811.jpg)
 
 As Kanye West said: 
 > We're living the future so 
 > the present is our past. 
+
+| First Header | Second Header | 
+| ------------ | ------------- | 
+| Content Cell | Content Cell  | 
+| Content Cell | Content Cell  | 
