@@ -29,3 +29,5 @@ This is [an example][id1] reference-style link.
 Esto es [otro ejemplo][id2] del estilo de enlaces "reference". 
  
 [id2]: http://www.ull.es/  "Universidad de La Laguna"
+
+![Ojo dragonfly](/assets/Dragonfly_eye_3811.jpg)
