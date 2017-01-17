@@ -18,10 +18,14 @@ Adiós
     * Item 2a 
     * Item 2b 
     
- This is [an example](http://example.com/ "Title") inline link with a title. 
+This is [an example](http://example.com/ "Title") inline link with a title. 
  
- [This link](http://example.net/) has no title attribute. 
+[This link](http://example.net/) has no title attribute. 
  
- This is [an example][id] reference-style link. 
+This is [an example][id] reference-style link. 
  
- [id]: http://example.com/  "Optional Title Here"
+[id]: http://example.com/  "Optional Title Here"
+
+Esto es [otro ejemplo][id] del estilo de enlaces "reference". 
+ 
+[id]: http://www.ull.es/  "Universidad de La Laguna"
