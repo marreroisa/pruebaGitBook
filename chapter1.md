@@ -30,7 +30,7 @@ Esto es [otro ejemplo][id2] del estilo de enlaces "reference".
  
 [id2]: http://www.ull.es/  "Universidad de La Laguna"
 
-![Ojo dragonfly](/assets/Dragonfly_eye_3811.jpg)
+An image: ![Ojo dragonfly](/assets/Dragonfly_eye_3811.jpg)
 
 As Kanye West said: 
 > We're living the future so 
