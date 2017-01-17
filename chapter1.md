@@ -22,10 +22,10 @@ This is [an example](http://example.com/ "Title") inline link with a title.
  
 [This link](http://example.net/) has no title attribute. 
  
-This is [an example][id] reference-style link. 
+This is [an example][id1] reference-style link. 
  
-[id]: http://example.com/  "Optional Title Here"
+[id1]: http://example.com/  "Optional Title Here"
 
-Esto es [otro ejemplo][id] del estilo de enlaces "reference". 
+Esto es [otro ejemplo][id2] del estilo de enlaces "reference". 
  
-[id]: http://www.ull.es/  "Universidad de La Laguna"
+[id22]: http://www.ull.es/  "Universidad de La Laguna"
