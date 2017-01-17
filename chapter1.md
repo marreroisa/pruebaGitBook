@@ -1,3 +1,27 @@
-# First Chapter
+# This is an h1 tag 
+## This is an h2 tag
+###### This is an h6 tag 
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Hello {#id}
+----- 
+# Hello {#id} 
+# Hello # {#id}
+
+Hola
+
+Adiós 
+
+*This text will be italic* _This will also be italic_ **This text will be bold** __This will also be bold__ ~~This text will be crossed out.~~ _You **can** combine them_
+
+* Item 1 
+* Item 2 
+    * Item 2a 
+    * Item 2b 
+    
+ This is [an example](http://example.com/ "Title") inline link with a title. 
+ 
+ [This link](http://example.net/) has no title attribute. 
+ 
+ This is [an example][id] reference-style link. 
+ 
+ [id]: http://example.com/  "Optional Title Here"
