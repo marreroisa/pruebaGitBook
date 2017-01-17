@@ -28,4 +28,4 @@ This is [an example][id1] reference-style link.
 
 Esto es [otro ejemplo][id2] del estilo de enlaces "reference". 
  
-[id22]: http://www.ull.es/  "Universidad de La Laguna"
+[id2]: http://www.ull.es/  "Universidad de La Laguna"
