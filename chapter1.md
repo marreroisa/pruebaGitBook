@@ -30,7 +30,7 @@ Esto es [otro ejemplo][id2] del estilo de enlaces "reference".
  
 [id2]: http://www.ull.es/  "Universidad de La Laguna"
 
-![Una imagen de GitBook](/assets/Dragonfly_eye_3811.jpg)
+![Una imagen de GitBook](/assets/Dragonflyeye.jpg)
 
 As Kanye West said: 
 > We're living the future so 
@@ -40,3 +40,10 @@ As Kanye West said:
 | ------------ | ------------- | 
 | Content Cell | Content Cell  | 
 | Content Cell | Content Cell  | 
+
+    Esto es una* prueba*
+    
+```function test() {console.log("notice the blank line before this function?");}```
+
+Use `gitbook` to convert the `text` in markdown
+syntax to HTML.
