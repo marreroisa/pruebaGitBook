@@ -47,3 +47,10 @@ As Kanye West said:
 
 Use `gitbook` to convert the `text` in markdown
 syntax to HTML.
+
+
+Text prior to footnote reference.[^2]
+
+Es un lenguaje de marcado ligero creado por John Gruber que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano. Se distribuye bajo licencia BSD y se distribuye como plugin (o al menos está disponible) en diferentes sistemas de gestión de contenidos (CMS).
+
+[^2]: Comment to include in footnote.
