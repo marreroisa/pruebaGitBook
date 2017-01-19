@@ -62,7 +62,7 @@ $$
 f(x)=\frac{x^2+1}{x^4+x^3+2}
 $$
 
-Esto es una fórmula: $$x=\frac{1+y}{1+2z^2}\$$
+Esto es una fórmula: $$x=\frac{1+y}{1+2z^2}$$
 
 Para las fórmulas Matemáticas se puede utilizar LaTeX.
 
