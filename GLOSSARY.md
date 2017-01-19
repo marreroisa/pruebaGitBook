@@ -1,6 +1,6 @@
 # Glossary
 
-## Termino 
+## Término 
 Definición para este término 
 
 ## Otro término 
