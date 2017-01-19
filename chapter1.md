@@ -2,10 +2,6 @@
 ## This is an h2 tag
 ###### This is an h6 tag 
 
-Hello {#id}
------ 
-# Hello {#id} 
-# Hello # {#id}
 
 Hola
 
